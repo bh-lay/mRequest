@@ -1,6 +1,6 @@
 {
   "name": "mrequest",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "the easy way request a http server,use node.js",
   "main": "lib/index.js",
   "scripts": {
