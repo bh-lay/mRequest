@@ -6,13 +6,9 @@ mReq.req({
     data: {
         'poster': '123123',
         'touser': 1231,
-        'access_token':'123',
-        'action':123
-    },
-    success: function(data) {
-        console.log(data)
-    },
-    fail: function(e) {
-        console.log('fa', e)
+        'access_token': '123',
+        'action': 123
     }
+}, function() {
+    console.log(arguments)
 })

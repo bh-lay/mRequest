@@ -19,14 +19,9 @@ mReq.req({
     //data: 'poster=12314&test=abc'
     data: {
         'poster': '123123',
-    },
-    success: function(data) {
-    	//the data from the server
-        console.log(data)
-    },
-    fail: function(e) {
-        console.log('fa', e)
     }
+},function(err,data){
+	//do sth
 })
 
 ```
