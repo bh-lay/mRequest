@@ -1,0 +1,24 @@
+{
+  "name": "mrequest",
+  "version": "0.0.0",
+  "description": "the easy way request a http server,use node.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zmofei/mRequest.git"
+  },
+  "keywords": [
+    "node.js",
+    "http",
+    "request"
+  ],
+  "author": "Mofei Zhu <13761509829@163.com> (http://www.zhuwenlong.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmofei/mRequest/issues"
+  },
+  "homepage": "https://github.com/zmofei/mRequest"
+}
